@@ -177,7 +177,7 @@
     </distributionManagement>
 
 
-    <profiles>
+    <!--<profiles>
 		<profile>
 			<id>release-sign-artifacts</id>
 			<activation>
@@ -204,5 +204,5 @@
 				</plugins>
 			</build>
 		</profile>
-	</profiles>
+	</profiles>-->
 </project>
